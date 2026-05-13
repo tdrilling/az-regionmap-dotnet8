@@ -52,4 +52,4 @@ jobs:
           app-name: 'ditdedotnetapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3EDDE32B8DC14268AC48A235A31E4088 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BEBC620375A04645B4CBA4F2C0F33DC1 }}
