@@ -52,4 +52,4 @@ jobs:
           app-name: 'ctdotnetapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8ED4FFDC6E9C4CBDB35D2478384BB460 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1EFD1DCA8861495FA8B2125B5930C3A5 }}
